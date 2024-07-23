@@ -31,6 +31,7 @@ npm run android
 # OR using Yarn
 yarn android
 ```
+`\\sqrt{a^2 + b^2}`
 
 ### For iOS
 
